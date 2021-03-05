@@ -6,7 +6,7 @@
 
 ### I'm a Ui Designer, Student, Developer, and Criative!
 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and learn new things
 
 <br />
