@@ -32,8 +32,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Futhememe&title_color=ffffff&show_icons=true&theme=vision-friendly-dark" alt="gustavo's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Futhememe&title_color=ffffff&layout=compact&theme=vision-friendly-dark" alt="gustavo's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Futhememe&title_color=555555&show_icons=true&icon_color=555555&theme=vision-friendly-dark" alt="gustavo's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Futhememe&title_color=555555&layout=compact&theme=vision-friendly-dark" alt="gustavo's most languages"/>
 </p>
 
 <br>
