@@ -1,3 +1,4 @@
+<img align="right" height="590em" src="./assets/Instagram.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Souza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Futhememe&color=green" alt="Profile views" /> </p>
 
@@ -11,7 +12,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and learn new things
 
-<br> <br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -31,7 +32,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
