@@ -5,6 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Gustavo%20Silva-04d361?style=flat-square&labelColor=555555&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-silva-261415148)
 [![Instagram Badge](https://img.shields.io/badge/-@fuh.psd-04d361?style=flat-square&labelColor=555555&logo=instagram&logoColor=white)](https://www.instagram.com/fuh.psd/)
 [![Dribbble Badge](https://img.shields.io/badge/-Gustavo%20S%20Souza-04d361?style=flat-square&labelColor=555555&logo=dribbble&logoColor=white)](https://dribbble.com/FuTheMeme)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-04d361?style=flat-square&labelColor=555555&logo=codepen&logoColor=white)](https://codepen.io/Futhememe)
 
 - 🔥 Fullstack Developer and UI Designer
 - 🌱 Currently studying Flutter
