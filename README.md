@@ -1,5 +1,5 @@
 <!-- <img align="right" height="590em" src="./assets/Instagram.svg"/> -->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Souza</h1>
+<h1 align="left">Hi, I'm Gustavo Souza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Futhememe&color=green" alt="Profile views" /> </p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Gustavo%20Silva-04d361?style=flat-square&labelColor=555555&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-silva-261415148)
