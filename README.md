@@ -35,11 +35,11 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Futhememe&title_color=04D361&show_icons=true&icon_color=04D361&theme=vision-friendly-dark" alt="gustavo's stats"/>
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Futhememe&title_color=04D361&layout=compact&theme=vision-friendly-dark" alt="gustavo's most languages"/>
 </p>
 
-<br>
+<br> -->
