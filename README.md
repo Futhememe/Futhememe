@@ -8,9 +8,9 @@
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-04d361?style=flat-square&labelColor=555555&logo=codepen&logoColor=white)](https://codepen.io/Futhememe)
 
 - 🔥 Fullstack Developer and UI Designer
-- 🌱 Currently studying Flutter
-- 🔭 Working on my portfolio
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 Currently working on personal projects
+- 🔭 Working on my portfolio for 2023
+- 🥅 2023 Goals: Create more tools to help devs
 - ⚡ Fun fact: I love to draw and learn new things
 
 <br>
