@@ -9,8 +9,8 @@
 
 - 🔥 Fullstack Developer and UI Designer
 - 🌱 Currently working on personal projects
-- 🔭 Working on my portfolio for 2023
-- 🥅 2023 Goals: Create more tools to help devs
+- 🔭 Checkout my [Portfolio](https://withgu.com/)
+- 🥅 2024 Goals: Create more tools to help devs
 - ⚡ Fun fact: I love to draw and learn new things
 
 <br>
